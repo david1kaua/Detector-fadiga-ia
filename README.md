@@ -1,9 +1,5 @@
 # 👁️ Detector de Fadiga Humana com IA
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ef0016d1-0bfb-473f-affc-9e4ac4debc58" width="600px" alt="Demonstração do Funcionamento">
-</p>
-
+![Demonstração](https://github.com/user-attachments/assets/ef0016d1-0bfb-473f-affc-9e4ac4debc58)
 ---
 
 ## 📝 Sobre o Projeto
