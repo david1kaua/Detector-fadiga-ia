@@ -1,6 +1,8 @@
 # 👁️ Detector de Fadiga Humana com IA
-![Demonstração](https://github.com/user-attachments/assets/ef0016d1-0bfb-473f-affc-9e4ac4debc58)
----
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/ef0016d1-0bfb-473f-affc-9e4ac4debc58" controls="controls" style="max-width: 600px;">
+  </video>
+</p>
 
 ## 📝 Sobre o Projeto
 Este projeto utiliza **Inteligência Artificial** e **Visão Computacional** para monitorar o rosto do usuário através da webcam e detectar sinais de cansaço ou sonolência. É uma solução ideal para sistemas de segurança em veículos ou monitoramento de produtividade.
